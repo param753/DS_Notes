@@ -1,2 +1,2 @@
 import os,sys
-print("it is valdation file")
+print("it is validation file")
