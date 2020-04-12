@@ -1,0 +1,2 @@
+it is the docment file to merge fullname
+converting lastname firstname to fullname
