@@ -1,2 +1,6 @@
 This will use for all python code
 Also use for new code
+java -cp picocli-4.6.1.jar:liquibase.jar liquibase.integration.commandline.LiquibaseCommandLine
+```[_{{{CITATION{{{_1{Could not find or load main class liquibase.integration.commandline ...](https://forum.liquibase.org/t/could-not-find-or-load-main-class-liquibase-integration-commandline-liquibasecommandline/6955)
+
+
